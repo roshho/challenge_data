@@ -1,0 +1,50 @@
+{
+  "set_name": "INPUT-RGBD",
+  "camera_intrinsics": {
+    "fx": 1067.0,
+    "fy": 1067.0,
+    "cx": 960.0,
+    "cy": 540.0,
+    "resolution": [
+      1920,
+      1080
+    ]
+  },
+  "summary": {
+    "total_images": 1,
+    "images_with_detections": 1,
+    "total_tips_detected": 1,
+    "images_with_depth": 1,
+    "tips_with_3d_coords": 1
+  },
+  "images": [
+    {
+      "image": "20250826_111213_front_frame000001_rgb.png",
+      "image_path": "INPUT-RGBD\\20250826_111213_front_frame000001_rgb.png",
+      "depth_available": true,
+      "depth_path": "INPUT-RGBD\\20250826_111213_front_frame000001_depth.tiff",
+      "num_tips": 1,
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.015268418937921524,
+          "bbox": {
+            "x1": 971.45654296875,
+            "y1": 426.71539306640625,
+            "x2": 992.2933959960938,
+            "y2": 446.86578369140625
+          },
+          "pixel_coords": {
+            "u": 981.875,
+            "v": 436.79058837890625
+          },
+          "world_coords_meters": {
+            "x": 0.07052360970837665,
+            "y": -0.33274058346958674,
+            "z": 3.439940185546875
+          }
+        }
+      ]
+    }
+  ]
+}
