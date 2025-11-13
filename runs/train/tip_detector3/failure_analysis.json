@@ -1,0 +1,371 @@
+{
+  "false_negatives": [
+    {
+      "image": "20250826_111213_front_frame000001_rgb_aug002.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_111213_front_frame000001_rgb_aug007.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_111213_front_frame000001_rgb_aug008.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_111217_rear_frame000004_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_111217_rear_frame000004_rgb_aug001.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_111219_front_frame000007_rgb_aug001.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_112339_front_frame000173_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_112339_front_frame000173_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_112339_front_frame000173_rgb_aug001.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_112359_front_frame000191_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_112359_front_frame000191_rgb_aug002.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_112359_front_frame000191_rgb_aug004.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_112359_front_frame000191_rgb_aug007.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_113512_rear_frame000344_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_113512_rear_frame000344_rgb_aug002.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_113512_rear_frame000344_rgb_aug004.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_113514_front_frame000347_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_113514_front_frame000347_rgb_aug003.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_113514_front_frame000347_rgb_aug008.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_124419_rear_frame001409_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_124419_rear_frame001409_rgb_aug003.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_124419_rear_frame001409_rgb_aug005.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_124419_rear_frame001409_rgb_aug006.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_151015_rear_frame000205_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_154341_rear_frame000705_rgb_aug009.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250826_154356_rear_frame000719_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250827_063229_front_frame000018_rgb_aug001.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250827_063229_front_frame000018_rgb_aug007.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250827_063235_front_frame000024_rgb_aug007.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250909_070521_rear_frame000018_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250909_070521_rear_frame000018_rgb_aug005.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250909_105117_rear_frame000000_rgb_aug001.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250909_112725_rear_frame000020_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250909_112725_rear_frame000020_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250909_112725_rear_frame000020_rgb_aug009.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250910_072126_front_frame000214_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250910_072126_front_frame000214_rgb_aug003.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250910_074404_front_frame000556_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250910_074404_front_frame000556_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250910_074404_front_frame000556_rgb_aug003.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250910_075640_front_frame000732_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250910_080729_rear_frame000857_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250915_082444_front_frame001484_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250915_082444_front_frame001484_rgb_aug001.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250915_082444_front_frame001484_rgb_aug008.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_070545_rear_frame000030_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_070545_rear_frame000030_rgb_aug002.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_070545_rear_frame000030_rgb_aug003.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_072523_front_frame000580_rgb_aug007.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_072523_front_frame000580_rgb_aug008.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_072524_rear_frame000581_rgb.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_072524_rear_frame000581_rgb_aug006.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_093725_rear_frame000038_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_093725_rear_frame000038_rgb_aug003.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250916_093725_rear_frame000038_rgb_aug004.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250917_070017_rear_frame000022_rgb_aug001.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250917_070017_rear_frame000022_rgb_aug008.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250917_071004_rear_frame000039_rgb_aug000.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250917_111833_rear_frame000030_rgb_aug004.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    },
+    {
+      "image": "20250917_111833_rear_frame000030_rgb_aug006.png",
+      "gt_tips": 1,
+      "pred_tips": 0,
+      "missed": 1
+    }
+  ],
+  "false_positives": [],
+  "summary": {
+    "total_images": 306,
+    "perfect": 246,
+    "missed_tips": 60,
+    "extra_detections": 0
+  }
+}

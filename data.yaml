@@ -1,0 +1,13 @@
+# YOLO dataset configuration
+# Paths relative to this file
+
+path: .  # dataset root dir (relative to this yaml file)
+train: data/4-yolo_dataset/images/train  # train images
+val: data/4-yolo_dataset/images/val  # val images
+
+# Classes
+names:
+  0: tip  # Object tip detection
+
+# Number of classes
+nc: 1

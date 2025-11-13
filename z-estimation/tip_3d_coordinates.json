@@ -1,0 +1,2474 @@
+{
+  "camera_intrinsics": {
+    "fx": 1067.0,
+    "fy": 1067.0,
+    "cx": 960.0,
+    "cy": 540.0,
+    "resolution": "1920x1080"
+  },
+  "summary": {
+    "total_images": 132,
+    "tips_detected": 130,
+    "tips_with_3d": 130
+  },
+  "images": [
+    {
+      "image": "20250826_111213_front_frame000001_rgb.png",
+      "depth_file": "20250826_111213_front_frame000001_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.015,
+          "pixel_coords": {
+            "u": 981.9,
+            "v": 436.8
+          },
+          "world_coords_meters": {
+            "x": 0.063,
+            "y": -0.312,
+            "z": 3.205
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111213_rear_frame000000_rgb.png",
+      "depth_file": "20250826_111213_rear_frame000000_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.473,
+          "pixel_coords": {
+            "u": 962.8,
+            "v": 381.6
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.385,
+            "z": 2.584
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111215_front_frame000003_rgb.png",
+      "depth_file": "20250826_111215_front_frame000003_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.801,
+          "pixel_coords": {
+            "u": 980.3,
+            "v": 437.6
+          },
+          "world_coords_meters": {
+            "x": 0.059,
+            "y": -0.302,
+            "z": 3.124
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111215_rear_frame000002_rgb.png",
+      "depth_file": "20250826_111215_rear_frame000002_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.889,
+          "pixel_coords": {
+            "u": 966.4,
+            "v": 383.7
+          },
+          "world_coords_meters": {
+            "x": 0.014,
+            "y": -0.367,
+            "z": 2.495
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111217_front_frame000005_rgb.png",
+      "depth_file": "20250826_111217_front_frame000005_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.595,
+          "pixel_coords": {
+            "u": 980.8,
+            "v": 435.7
+          },
+          "world_coords_meters": {
+            "x": 0.054,
+            "y": -0.285,
+            "z": 2.901
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111217_rear_frame000004_rgb.png",
+      "depth_file": "20250826_111217_rear_frame000004_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.072,
+          "pixel_coords": {
+            "u": 961.6,
+            "v": 384.4
+          },
+          "world_coords_meters": {
+            "x": 0.002,
+            "y": -0.352,
+            "z": 2.408
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111219_front_frame000007_rgb.png",
+      "depth_file": "20250826_111219_front_frame000007_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.063,
+          "pixel_coords": {
+            "u": 981.6,
+            "v": 440.0
+          },
+          "world_coords_meters": {
+            "x": 0.063,
+            "y": -0.304,
+            "z": 3.212
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111219_rear_frame000006_rgb.png",
+      "depth_file": "20250826_111219_rear_frame000006_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.296,
+          "pixel_coords": {
+            "u": 961.9,
+            "v": 391.3
+          },
+          "world_coords_meters": {
+            "x": 0.002,
+            "y": -0.342,
+            "z": 2.451
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111222_front_frame000009_rgb.png",
+      "depth_file": "20250826_111222_front_frame000009_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.92,
+          "pixel_coords": {
+            "u": 978.5,
+            "v": 433.7
+          },
+          "world_coords_meters": {
+            "x": 0.052,
+            "y": -0.311,
+            "z": 3.103
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111236_rear_frame000022_rgb.png",
+      "depth_file": "20250826_111236_rear_frame000022_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.872,
+          "pixel_coords": {
+            "u": 964.3,
+            "v": 386.7
+          },
+          "world_coords_meters": {
+            "x": 0.01,
+            "y": -0.38,
+            "z": 2.636
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_111238_rear_frame000024_rgb.png",
+      "depth_file": "20250826_111238_rear_frame000024_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.879,
+          "pixel_coords": {
+            "u": 964.4,
+            "v": 391.0
+          },
+          "world_coords_meters": {
+            "x": 0.009,
+            "y": -0.353,
+            "z": 2.514
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_112337_rear_frame000170_rgb.png",
+      "depth_file": "20250826_112337_rear_frame000170_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.897,
+          "pixel_coords": {
+            "u": 965.9,
+            "v": 392.0
+          },
+          "world_coords_meters": {
+            "x": 0.013,
+            "y": -0.376,
+            "z": 2.713
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_112339_front_frame000173_rgb.png",
+      "depth_file": "20250826_112339_front_frame000173_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.043,
+          "pixel_coords": {
+            "u": 986.1,
+            "v": 431.1
+          },
+          "world_coords_meters": {
+            "x": 0.081,
+            "y": -0.338,
+            "z": 3.307
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_112356_rear_frame000188_rgb.png",
+      "depth_file": "20250826_112356_rear_frame000188_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.867,
+          "pixel_coords": {
+            "u": 964.1,
+            "v": 390.2
+          },
+          "world_coords_meters": {
+            "x": 0.01,
+            "y": -0.358,
+            "z": 2.546
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_112358_rear_frame000190_rgb.png",
+      "depth_file": "20250826_112358_rear_frame000190_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.858,
+          "pixel_coords": {
+            "u": 964.0,
+            "v": 390.7
+          },
+          "world_coords_meters": {
+            "x": 0.007,
+            "y": -0.365,
+            "z": 2.6
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_112359_front_frame000191_rgb.png",
+      "depth_file": "20250826_112359_front_frame000191_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.023,
+          "pixel_coords": {
+            "u": 986.0,
+            "v": 431.4
+          },
+          "world_coords_meters": {
+            "x": 0.073,
+            "y": -0.32,
+            "z": 3.134
+          }
+        },
+        {
+          "tip_id": 2,
+          "confidence": 0.016,
+          "pixel_coords": {
+            "u": 982.1,
+            "v": 432.0
+          },
+          "world_coords_meters": {
+            "x": 0.065,
+            "y": -0.323,
+            "z": 3.165
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_113512_rear_frame000344_rgb.png",
+      "depth_file": "20250826_113512_rear_frame000344_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.027,
+          "pixel_coords": {
+            "u": 957.7,
+            "v": 397.9
+          },
+          "world_coords_meters": {
+            "x": -0.008,
+            "y": -0.366,
+            "z": 2.733
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_113514_front_frame000347_rgb.png",
+      "depth_file": "20250826_113514_front_frame000347_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.07,
+          "pixel_coords": {
+            "u": 986.1,
+            "v": 432.6
+          },
+          "world_coords_meters": {
+            "x": 0.077,
+            "y": -0.319,
+            "z": 3.156
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_121708_front_frame000422_rgb.png",
+      "depth_file": "20250826_121708_front_frame000422_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.915,
+          "pixel_coords": {
+            "u": 969.8,
+            "v": 366.3
+          },
+          "world_coords_meters": {
+            "x": 0.021,
+            "y": -0.414,
+            "z": 2.54
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_124419_front_frame001408_rgb.png",
+      "depth_file": "20250826_124419_front_frame001408_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.876,
+          "pixel_coords": {
+            "u": 972.7,
+            "v": 377.5
+          },
+          "world_coords_meters": {
+            "x": 0.03,
+            "y": -0.406,
+            "z": 2.658
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_124419_rear_frame001409_rgb.png",
+      "depth_file": "20250826_124419_rear_frame001409_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.021,
+          "pixel_coords": {
+            "u": 981.9,
+            "v": 439.1
+          },
+          "world_coords_meters": {
+            "x": 0.066,
+            "y": -0.32,
+            "z": 3.376
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_131353_rear_frame002645_rgb.png",
+      "depth_file": "20250826_131353_rear_frame002645_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.923,
+          "pixel_coords": {
+            "u": 995.3,
+            "v": 318.4
+          },
+          "world_coords_meters": {
+            "x": 0.048,
+            "y": -0.306,
+            "z": 1.47
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_131359_front_frame002650_rgb.png",
+      "depth_file": "20250826_131359_front_frame002650_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.41,
+          "pixel_coords": {
+            "u": 981.8,
+            "v": 355.4
+          },
+          "world_coords_meters": {
+            "x": 0.039,
+            "y": -0.343,
+            "z": 1.977
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_133900_front_frame003710_rgb.png",
+      "depth_file": "20250826_133900_front_frame003710_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.909,
+          "pixel_coords": {
+            "u": 974.5,
+            "v": 389.4
+          },
+          "world_coords_meters": {
+            "x": 0.034,
+            "y": -0.372,
+            "z": 2.629
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_133902_front_frame003712_rgb.png",
+      "depth_file": "20250826_133902_front_frame003712_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.906,
+          "pixel_coords": {
+            "u": 971.8,
+            "v": 390.9
+          },
+          "world_coords_meters": {
+            "x": 0.029,
+            "y": -0.39,
+            "z": 2.776
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_140609_front_frame004634_rgb.png",
+      "depth_file": "20250826_140609_front_frame004634_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.891,
+          "pixel_coords": {
+            "u": 970.8,
+            "v": 392.4
+          },
+          "world_coords_meters": {
+            "x": 0.027,
+            "y": -0.395,
+            "z": 2.848
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_140613_front_frame004638_rgb.png",
+      "depth_file": "20250826_140613_front_frame004638_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.904,
+          "pixel_coords": {
+            "u": 975.4,
+            "v": 389.8
+          },
+          "world_coords_meters": {
+            "x": 0.037,
+            "y": -0.37,
+            "z": 2.615
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_140646_front_frame004670_rgb.png",
+      "depth_file": "20250826_140646_front_frame004670_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.908,
+          "pixel_coords": {
+            "u": 975.0,
+            "v": 390.9
+          },
+          "world_coords_meters": {
+            "x": 0.038,
+            "y": -0.375,
+            "z": 2.669
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_142031_front_frame005190_rgb.png",
+      "depth_file": "20250826_142031_front_frame005190_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.554,
+          "pixel_coords": {
+            "u": 970.7,
+            "v": 398.6
+          },
+          "world_coords_meters": {
+            "x": 0.024,
+            "y": -0.346,
+            "z": 2.602
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_150118_front_frame000032_rgb.png",
+      "depth_file": "20250826_150118_front_frame000032_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.904,
+          "pixel_coords": {
+            "u": 971.8,
+            "v": 364.0
+          },
+          "world_coords_meters": {
+            "x": 0.021,
+            "y": -0.341,
+            "z": 2.066
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_151015_rear_frame000205_rgb.png",
+      "depth_file": "20250826_151015_rear_frame000205_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.238,
+          "pixel_coords": {
+            "u": 1005.7,
+            "v": 440.4
+          },
+          "world_coords_meters": {
+            "x": 0.135,
+            "y": -0.3,
+            "z": 3.202
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_151017_front_frame000206_rgb.png",
+      "depth_file": "20250826_151017_front_frame000206_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.531,
+          "pixel_coords": {
+            "u": 1010.6,
+            "v": 380.4
+          },
+          "world_coords_meters": {
+            "x": 0.116,
+            "y": -0.37,
+            "z": 2.47
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_152134_front_frame000372_rgb.png",
+      "depth_file": "20250826_152134_front_frame000372_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.879,
+          "pixel_coords": {
+            "u": 974.3,
+            "v": 382.0
+          },
+          "world_coords_meters": {
+            "x": 0.033,
+            "y": -0.372,
+            "z": 2.499
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_153254_front_frame000542_rgb.png",
+      "depth_file": "20250826_153254_front_frame000542_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.879,
+          "pixel_coords": {
+            "u": 971.9,
+            "v": 361.6
+          },
+          "world_coords_meters": {
+            "x": 0.026,
+            "y": -0.422,
+            "z": 2.517
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_154341_rear_frame000705_rgb.png",
+      "depth_file": "20250826_154341_rear_frame000705_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.461,
+          "pixel_coords": {
+            "u": 981.6,
+            "v": 439.0
+          },
+          "world_coords_meters": {
+            "x": 0.066,
+            "y": -0.316,
+            "z": 3.341
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_154342_front_frame000706_rgb.png",
+      "depth_file": "20250826_154342_front_frame000706_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.87,
+          "pixel_coords": {
+            "u": 974.2,
+            "v": 378.6
+          },
+          "world_coords_meters": {
+            "x": 0.034,
+            "y": -0.391,
+            "z": 2.576
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_154355_front_frame000718_rgb.png",
+      "depth_file": "20250826_154355_front_frame000718_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.902,
+          "pixel_coords": {
+            "u": 971.0,
+            "v": 386.1
+          },
+          "world_coords_meters": {
+            "x": 0.026,
+            "y": -0.368,
+            "z": 2.553
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250826_154356_rear_frame000719_rgb.png",
+      "depth_file": "20250826_154356_rear_frame000719_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.153,
+          "pixel_coords": {
+            "u": 981.5,
+            "v": 436.3
+          },
+          "world_coords_meters": {
+            "x": 0.059,
+            "y": -0.291,
+            "z": 2.985
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_063227_rear_frame000017_rgb.png",
+      "depth_file": "20250827_063227_rear_frame000017_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.724,
+          "pixel_coords": {
+            "u": 980.7,
+            "v": 440.6
+          },
+          "world_coords_meters": {
+            "x": 0.052,
+            "y": -0.262,
+            "z": 2.797
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_063229_front_frame000018_rgb.png",
+      "depth_file": "20250827_063229_front_frame000018_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.026,
+          "pixel_coords": {
+            "u": 971.8,
+            "v": 370.4
+          },
+          "world_coords_meters": {
+            "x": 0.025,
+            "y": -0.39,
+            "z": 2.451
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_063235_front_frame000024_rgb.png",
+      "depth_file": "20250827_063235_front_frame000024_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.23,
+          "pixel_coords": {
+            "u": 972.7,
+            "v": 374.0
+          },
+          "world_coords_meters": {
+            "x": 0.028,
+            "y": -0.389,
+            "z": 2.486
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_063235_rear_frame000025_rgb.png",
+      "depth_file": "20250827_063235_rear_frame000025_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.747,
+          "pixel_coords": {
+            "u": 980.9,
+            "v": 439.8
+          },
+          "world_coords_meters": {
+            "x": 0.053,
+            "y": -0.266,
+            "z": 2.805
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_063257_front_frame000044_rgb.png",
+      "depth_file": "20250827_063257_front_frame000044_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.189,
+          "pixel_coords": {
+            "u": 981.7,
+            "v": 410.6
+          },
+          "world_coords_meters": {
+            "x": 0.05,
+            "y": -0.311,
+            "z": 2.552
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_064342_front_frame000200_rgb.png",
+      "depth_file": "20250827_064342_front_frame000200_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.881,
+          "pixel_coords": {
+            "u": 971.8,
+            "v": 381.8
+          },
+          "world_coords_meters": {
+            "x": 0.025,
+            "y": -0.365,
+            "z": 2.45
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_064344_front_frame000202_rgb.png",
+      "depth_file": "20250827_064344_front_frame000202_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.905,
+          "pixel_coords": {
+            "u": 970.6,
+            "v": 375.9
+          },
+          "world_coords_meters": {
+            "x": 0.024,
+            "y": -0.39,
+            "z": 2.52
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_064348_front_frame000206_rgb.png",
+      "depth_file": "20250827_064348_front_frame000206_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.897,
+          "pixel_coords": {
+            "u": 971.0,
+            "v": 376.6
+          },
+          "world_coords_meters": {
+            "x": 0.025,
+            "y": -0.374,
+            "z": 2.432
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_065438_front_frame000392_rgb.png",
+      "depth_file": "20250827_065438_front_frame000392_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.922,
+          "pixel_coords": {
+            "u": 973.4,
+            "v": 391.0
+          },
+          "world_coords_meters": {
+            "x": 0.033,
+            "y": -0.376,
+            "z": 2.673
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250827_070542_front_frame000556_rgb.png",
+      "depth_file": "20250827_070542_front_frame000556_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.886,
+          "pixel_coords": {
+            "u": 971.3,
+            "v": 392.3
+          },
+          "world_coords_meters": {
+            "x": 0.026,
+            "y": -0.347,
+            "z": 2.503
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_065454_rear_frame000020_rgb.png",
+      "depth_file": "20250909_065454_rear_frame000020_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.869,
+          "pixel_coords": {
+            "u": 964.7,
+            "v": 367.3
+          },
+          "world_coords_meters": {
+            "x": 0.007,
+            "y": -0.322,
+            "z": 1.986
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_070521_rear_frame000018_rgb.png",
+      "depth_file": "20250909_070521_rear_frame000018_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.11,
+          "pixel_coords": {
+            "u": 923.5,
+            "v": 350.0
+          },
+          "world_coords_meters": {
+            "x": -0.068,
+            "y": -0.351,
+            "z": 1.96
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_081012_rear_frame000020_rgb.png",
+      "depth_file": "20250909_081012_rear_frame000020_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.761,
+          "pixel_coords": {
+            "u": 962.6,
+            "v": 400.8
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.361,
+            "z": 2.755
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_082158_rear_frame000024_rgb.png",
+      "depth_file": "20250909_082158_rear_frame000024_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.934,
+          "pixel_coords": {
+            "u": 965.0,
+            "v": 402.8
+          },
+          "world_coords_meters": {
+            "x": 0.01,
+            "y": -0.336,
+            "z": 2.602
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_083308_rear_frame000028_rgb.png",
+      "depth_file": "20250909_083308_rear_frame000028_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.885,
+          "pixel_coords": {
+            "u": 964.8,
+            "v": 362.3
+          },
+          "world_coords_meters": {
+            "x": 0.008,
+            "y": -0.337,
+            "z": 2.02
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_084229_rear_frame000024_rgb.png",
+      "depth_file": "20250909_084229_rear_frame000024_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.339,
+          "pixel_coords": {
+            "u": 965.7,
+            "v": 398.5
+          },
+          "world_coords_meters": {
+            "x": 0.013,
+            "y": -0.371,
+            "z": 2.791
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_091707_rear_frame000038_rgb.png",
+      "depth_file": "20250909_091707_rear_frame000038_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.601,
+          "pixel_coords": {
+            "u": 962.5,
+            "v": 402.6
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.318,
+            "z": 2.461
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_095335_rear_frame000018_rgb.png",
+      "depth_file": "20250909_095335_rear_frame000018_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.692,
+          "pixel_coords": {
+            "u": 963.0,
+            "v": 402.6
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.339,
+            "z": 2.618
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_102713_rear_frame000028_rgb.png",
+      "depth_file": "20250909_102713_rear_frame000028_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.9,
+          "pixel_coords": {
+            "u": 951.4,
+            "v": 355.3
+          },
+          "world_coords_meters": {
+            "x": -0.017,
+            "y": -0.355,
+            "z": 2.047
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_103905_rear_frame000034_rgb.png",
+      "depth_file": "20250909_103905_rear_frame000034_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.823,
+          "pixel_coords": {
+            "u": 950.4,
+            "v": 423.3
+          },
+          "world_coords_meters": {
+            "x": -0.024,
+            "y": -0.28,
+            "z": 2.55
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_105117_rear_frame000000_rgb.png",
+      "depth_file": "20250909_105117_rear_frame000000_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.324,
+          "pixel_coords": {
+            "u": 962.3,
+            "v": 403.8
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.34,
+            "z": 2.644
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_111501_rear_frame000012_rgb.png",
+      "depth_file": "20250909_111501_rear_frame000012_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.879,
+          "pixel_coords": {
+            "u": 966.1,
+            "v": 386.0
+          },
+          "world_coords_meters": {
+            "x": 0.016,
+            "y": -0.406,
+            "z": 2.798
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_112725_rear_frame000020_rgb.png",
+      "depth_file": "20250909_112725_rear_frame000020_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.064,
+          "pixel_coords": {
+            "u": 963.8,
+            "v": 397.9
+          },
+          "world_coords_meters": {
+            "x": 0.007,
+            "y": -0.335,
+            "z": 2.5
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250909_113918_rear_frame000026_rgb.png",
+      "depth_file": "20250909_113918_rear_frame000026_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.781,
+          "pixel_coords": {
+            "u": 939.4,
+            "v": 408.3
+          },
+          "world_coords_meters": {
+            "x": -0.05,
+            "y": -0.314,
+            "z": 2.541
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_071012_front_frame000040_rgb.png",
+      "depth_file": "20250910_071012_front_frame000040_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.436,
+          "pixel_coords": {
+            "u": 957.4,
+            "v": 362.8
+          },
+          "world_coords_meters": {
+            "x": -0.005,
+            "y": -0.31,
+            "z": 1.857
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_072055_front_frame000186_rgb.png",
+      "depth_file": "20250910_072055_front_frame000186_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.91,
+          "pixel_coords": {
+            "u": 974.5,
+            "v": 389.3
+          },
+          "world_coords_meters": {
+            "x": 0.032,
+            "y": -0.342,
+            "z": 2.418
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_072126_front_frame000214_rgb.png",
+      "depth_file": "20250910_072126_front_frame000214_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.225,
+          "pixel_coords": {
+            "u": 956.8,
+            "v": 393.9
+          },
+          "world_coords_meters": {
+            "x": -0.009,
+            "y": -0.316,
+            "z": 2.291
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_073220_front_frame000342_rgb.png",
+      "depth_file": "20250910_073220_front_frame000342_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.89,
+          "pixel_coords": {
+            "u": 971.6,
+            "v": 383.9
+          },
+          "world_coords_meters": {
+            "x": 0.024,
+            "y": -0.348,
+            "z": 2.363
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_074327_rear_frame000523_rgb.png",
+      "depth_file": "20250910_074327_rear_frame000523_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.634,
+          "pixel_coords": {
+            "u": 981.1,
+            "v": 423.8
+          },
+          "world_coords_meters": {
+            "x": 0.059,
+            "y": -0.329,
+            "z": 3.004
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_074329_front_frame000524_rgb.png",
+      "depth_file": "20250910_074329_front_frame000524_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.715,
+          "pixel_coords": {
+            "u": 973.1,
+            "v": 393.7
+          },
+          "world_coords_meters": {
+            "x": 0.029,
+            "y": -0.328,
+            "z": 2.38
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_074351_front_frame000544_rgb.png",
+      "depth_file": "20250910_074351_front_frame000544_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.9,
+          "pixel_coords": {
+            "u": 930.7,
+            "v": 399.6
+          },
+          "world_coords_meters": {
+            "x": -0.067,
+            "y": -0.316,
+            "z": 2.389
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_074404_front_frame000556_rgb.png",
+      "depth_file": "20250910_074404_front_frame000556_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.031,
+          "pixel_coords": {
+            "u": 934.2,
+            "v": 392.6
+          },
+          "world_coords_meters": {
+            "x": -0.06,
+            "y": -0.342,
+            "z": 2.468
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_075550_front_frame000686_rgb.png",
+      "depth_file": "20250910_075550_front_frame000686_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.921,
+          "pixel_coords": {
+            "u": 973.4,
+            "v": 390.4
+          },
+          "world_coords_meters": {
+            "x": 0.029,
+            "y": -0.34,
+            "z": 2.417
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_075551_rear_frame000687_rgb.png",
+      "depth_file": "20250910_075551_rear_frame000687_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.916,
+          "pixel_coords": {
+            "u": 978.3,
+            "v": 425.4
+          },
+          "world_coords_meters": {
+            "x": 0.049,
+            "y": -0.312,
+            "z": 2.896
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_075605_front_frame000700_rgb.png",
+      "depth_file": "20250910_075605_front_frame000700_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.907,
+          "pixel_coords": {
+            "u": 974.2,
+            "v": 391.4
+          },
+          "world_coords_meters": {
+            "x": 0.03,
+            "y": -0.315,
+            "z": 2.258
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_075640_front_frame000732_rgb.png",
+      "depth_file": "20250910_075640_front_frame000732_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.071,
+          "pixel_coords": {
+            "u": 937.9,
+            "v": 398.4
+          },
+          "world_coords_meters": {
+            "x": -0.052,
+            "y": -0.323,
+            "z": 2.431
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_080729_front_frame000856_rgb.png",
+      "depth_file": "20250910_080729_front_frame000856_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.896,
+          "pixel_coords": {
+            "u": 972.6,
+            "v": 387.2
+          },
+          "world_coords_meters": {
+            "x": 0.027,
+            "y": -0.342,
+            "z": 2.386
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250910_080729_rear_frame000857_rgb.png",
+      "depth_file": "20250910_080729_rear_frame000857_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.345,
+          "pixel_coords": {
+            "u": 981.4,
+            "v": 425.7
+          },
+          "world_coords_meters": {
+            "x": 0.06,
+            "y": -0.327,
+            "z": 3.033
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250911_071231_rear_frame000032_rgb.png",
+      "depth_file": "20250911_071231_rear_frame000032_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.92,
+          "pixel_coords": {
+            "u": 953.9,
+            "v": 399.8
+          },
+          "world_coords_meters": {
+            "x": -0.015,
+            "y": -0.309,
+            "z": 2.337
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250911_072246_front_frame000030_rgb.png",
+      "depth_file": "20250911_072246_front_frame000030_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.844,
+          "pixel_coords": {
+            "u": 974.5,
+            "v": 392.5
+          },
+          "world_coords_meters": {
+            "x": 0.03,
+            "y": -0.32,
+            "z": 2.304
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250911_094342_rear_frame000000_rgb.png",
+      "depth_file": "20250911_094342_rear_frame000000_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.858,
+          "pixel_coords": {
+            "u": 963.6,
+            "v": 356.7
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.326,
+            "z": 1.888
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250911_095543_rear_frame000006_rgb.png",
+      "depth_file": "20250911_095543_rear_frame000006_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.313,
+          "pixel_coords": {
+            "u": 962.5,
+            "v": 398.5
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.335,
+            "z": 2.518
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250911_095644_rear_frame000010_rgb.png",
+      "depth_file": "20250911_095644_rear_frame000010_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.625,
+          "pixel_coords": {
+            "u": 938.6,
+            "v": 376.6
+          },
+          "world_coords_meters": {
+            "x": -0.042,
+            "y": -0.309,
+            "z": 2.013
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250911_102714_rear_frame000006_rgb.png",
+      "depth_file": "20250911_102714_rear_frame000006_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.906,
+          "pixel_coords": {
+            "u": 954.5,
+            "v": 408.3
+          },
+          "world_coords_meters": {
+            "x": -0.016,
+            "y": -0.352,
+            "z": 2.849
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_070717_front_frame000152_rgb.png",
+      "depth_file": "20250915_070717_front_frame000152_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.856,
+          "pixel_coords": {
+            "u": 978.5,
+            "v": 387.1
+          },
+          "world_coords_meters": {
+            "x": 0.039,
+            "y": -0.332,
+            "z": 2.314
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_072054_front_frame000334_rgb.png",
+      "depth_file": "20250915_072054_front_frame000334_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.896,
+          "pixel_coords": {
+            "u": 971.8,
+            "v": 386.4
+          },
+          "world_coords_meters": {
+            "x": 0.024,
+            "y": -0.329,
+            "z": 2.282
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_072114_front_frame000352_rgb.png",
+      "depth_file": "20250915_072114_front_frame000352_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.902,
+          "pixel_coords": {
+            "u": 964.3,
+            "v": 388.4
+          },
+          "world_coords_meters": {
+            "x": 0.009,
+            "y": -0.345,
+            "z": 2.42
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_073227_front_frame000498_rgb.png",
+      "depth_file": "20250915_073227_front_frame000498_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.911,
+          "pixel_coords": {
+            "u": 972.0,
+            "v": 390.7
+          },
+          "world_coords_meters": {
+            "x": 0.026,
+            "y": -0.356,
+            "z": 2.529
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_075109_front_frame000676_rgb.png",
+      "depth_file": "20250915_075109_front_frame000676_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.878,
+          "pixel_coords": {
+            "u": 975.1,
+            "v": 385.1
+          },
+          "world_coords_meters": {
+            "x": 0.034,
+            "y": -0.35,
+            "z": 2.41
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_075137_front_frame000702_rgb.png",
+      "depth_file": "20250915_075137_front_frame000702_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.691,
+          "pixel_coords": {
+            "u": 964.2,
+            "v": 398.5
+          },
+          "world_coords_meters": {
+            "x": 0.009,
+            "y": -0.329,
+            "z": 2.472
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_080721_front_frame000846_rgb.png",
+      "depth_file": "20250915_080721_front_frame000846_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.876,
+          "pixel_coords": {
+            "u": 946.2,
+            "v": 384.4
+          },
+          "world_coords_meters": {
+            "x": -0.031,
+            "y": -0.349,
+            "z": 2.389
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250915_082444_front_frame001484_rgb.png",
+      "depth_file": "20250915_082444_front_frame001484_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.068,
+          "pixel_coords": {
+            "u": 962.3,
+            "v": 374.2
+          },
+          "world_coords_meters": {
+            "x": 0.004,
+            "y": -0.329,
+            "z": 2.116
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_065947_front_frame000200_rgb.png",
+      "depth_file": "20250916_065947_front_frame000200_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.919,
+          "pixel_coords": {
+            "u": 973.1,
+            "v": 391.1
+          },
+          "world_coords_meters": {
+            "x": 0.028,
+            "y": -0.325,
+            "z": 2.33
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_070545_rear_frame000030_rgb.png",
+      "depth_file": "20250916_070545_rear_frame000030_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.012,
+          "pixel_coords": {
+            "u": 961.9,
+            "v": 385.6
+          },
+          "world_coords_meters": {
+            "x": 0.002,
+            "y": -0.356,
+            "z": 2.451
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_071119_front_frame000388_rgb.png",
+      "depth_file": "20250916_071119_front_frame000388_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.922,
+          "pixel_coords": {
+            "u": 973.2,
+            "v": 390.9
+          },
+          "world_coords_meters": {
+            "x": 0.029,
+            "y": -0.333,
+            "z": 2.371
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_071134_front_frame000402_rgb.png",
+      "depth_file": "20250916_071134_front_frame000402_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.642,
+          "pixel_coords": {
+            "u": 973.3,
+            "v": 393.5
+          },
+          "world_coords_meters": {
+            "x": 0.027,
+            "y": -0.307,
+            "z": 2.227
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_072523_front_frame000580_rgb.png",
+      "depth_file": "20250916_072523_front_frame000580_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.442,
+          "pixel_coords": {
+            "u": 974.9,
+            "v": 393.5
+          },
+          "world_coords_meters": {
+            "x": 0.031,
+            "y": -0.321,
+            "z": 2.33
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_072524_rear_frame000581_rgb.png",
+      "depth_file": "20250916_072524_rear_frame000581_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.084,
+          "pixel_coords": {
+            "u": 981.9,
+            "v": 369.6
+          },
+          "world_coords_meters": {
+            "x": 0.041,
+            "y": -0.338,
+            "z": 2.106
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_072608_front_frame000622_rgb.png",
+      "depth_file": "20250916_072608_front_frame000622_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.904,
+          "pixel_coords": {
+            "u": 968.6,
+            "v": 381.9
+          },
+          "world_coords_meters": {
+            "x": 0.018,
+            "y": -0.352,
+            "z": 2.361
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_073128_rear_frame000004_rgb.png",
+      "depth_file": "20250916_073128_rear_frame000004_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.696,
+          "pixel_coords": {
+            "u": 962.7,
+            "v": 387.1
+          },
+          "world_coords_meters": {
+            "x": 0.004,
+            "y": -0.337,
+            "z": 2.347
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_073827_front_frame000806_rgb.png",
+      "depth_file": "20250916_073827_front_frame000806_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.902,
+          "pixel_coords": {
+            "u": 972.2,
+            "v": 367.2
+          },
+          "world_coords_meters": {
+            "x": 0.022,
+            "y": -0.319,
+            "z": 1.969
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_074300_rear_frame000006_rgb.png",
+      "depth_file": "20250916_074300_rear_frame000006_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.368,
+          "pixel_coords": {
+            "u": 957.6,
+            "v": 343.9
+          },
+          "world_coords_meters": {
+            "x": -0.005,
+            "y": -0.315,
+            "z": 1.705
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_075206_front_frame000932_rgb.png",
+      "depth_file": "20250916_075206_front_frame000932_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.912,
+          "pixel_coords": {
+            "u": 973.4,
+            "v": 388.4
+          },
+          "world_coords_meters": {
+            "x": 0.031,
+            "y": -0.358,
+            "z": 2.513
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_075214_front_frame000940_rgb.png",
+      "depth_file": "20250916_075214_front_frame000940_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.905,
+          "pixel_coords": {
+            "u": 973.4,
+            "v": 386.3
+          },
+          "world_coords_meters": {
+            "x": 0.029,
+            "y": -0.349,
+            "z": 2.421
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_075758_rear_frame000024_rgb.png",
+      "depth_file": "20250916_075758_rear_frame000024_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.929,
+          "pixel_coords": {
+            "u": 966.9,
+            "v": 409.8
+          },
+          "world_coords_meters": {
+            "x": 0.015,
+            "y": -0.325,
+            "z": 2.649
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_081013_rear_frame000030_rgb.png",
+      "depth_file": "20250916_081013_rear_frame000030_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.474,
+          "pixel_coords": {
+            "u": 962.7,
+            "v": 380.8
+          },
+          "world_coords_meters": {
+            "x": 0.005,
+            "y": -0.378,
+            "z": 2.519
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_084834_rear_frame000012_rgb.png",
+      "depth_file": "20250916_084834_rear_frame000012_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.813,
+          "pixel_coords": {
+            "u": 963.2,
+            "v": 364.4
+          },
+          "world_coords_meters": {
+            "x": 0.006,
+            "y": -0.328,
+            "z": 1.991
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_093725_rear_frame000038_rgb.png",
+      "depth_file": "20250916_093725_rear_frame000038_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.101,
+          "pixel_coords": {
+            "u": 964.1,
+            "v": 398.0
+          },
+          "world_coords_meters": {
+            "x": 0.009,
+            "y": -0.333,
+            "z": 2.503
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_093820_rear_frame000000_rgb.png",
+      "depth_file": "20250916_093820_rear_frame000000_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.51,
+          "pixel_coords": {
+            "u": 966.2,
+            "v": 393.8
+          },
+          "world_coords_meters": {
+            "x": 0.014,
+            "y": -0.353,
+            "z": 2.561
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_102444_rear_frame000016_rgb.png",
+      "depth_file": "20250916_102444_rear_frame000016_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.925,
+          "pixel_coords": {
+            "u": 966.5,
+            "v": 381.1
+          },
+          "world_coords_meters": {
+            "x": 0.014,
+            "y": -0.365,
+            "z": 2.452
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_104529_rear_frame000016_rgb.png",
+      "depth_file": "20250916_104529_rear_frame000016_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.794,
+          "pixel_coords": {
+            "u": 963.7,
+            "v": 399.7
+          },
+          "world_coords_meters": {
+            "x": 0.007,
+            "y": -0.34,
+            "z": 2.569
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_110843_rear_frame000026_rgb.png",
+      "depth_file": "20250916_110843_rear_frame000026_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.784,
+          "pixel_coords": {
+            "u": 963.5,
+            "v": 385.0
+          },
+          "world_coords_meters": {
+            "x": 0.007,
+            "y": -0.364,
+            "z": 2.503
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250916_115434_rear_frame000002_rgb.png",
+      "depth_file": "20250916_115434_rear_frame000002_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.905,
+          "pixel_coords": {
+            "u": 920.0,
+            "v": 403.3
+          },
+          "world_coords_meters": {
+            "x": -0.111,
+            "y": -0.37,
+            "z": 2.883
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_065947_rear_frame000020_rgb.png",
+      "depth_file": "20250917_065947_rear_frame000020_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.904,
+          "pixel_coords": {
+            "u": 965.0,
+            "v": 390.0
+          },
+          "world_coords_meters": {
+            "x": 0.009,
+            "y": -0.339,
+            "z": 2.409
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_070949_front_frame000024_rgb.png",
+      "depth_file": "20250917_070949_front_frame000024_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.914,
+          "pixel_coords": {
+            "u": 973.4,
+            "v": 391.0
+          },
+          "world_coords_meters": {
+            "x": 0.032,
+            "y": -0.371,
+            "z": 2.659
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_071004_front_frame000038_rgb.png",
+      "depth_file": "20250917_071004_front_frame000038_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.914,
+          "pixel_coords": {
+            "u": 972.9,
+            "v": 390.8
+          },
+          "world_coords_meters": {
+            "x": 0.027,
+            "y": -0.341,
+            "z": 2.423
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_071004_rear_frame000039_rgb.png",
+      "depth_file": "20250917_071004_rear_frame000039_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.018,
+          "pixel_coords": {
+            "u": 986.0,
+            "v": 424.0
+          },
+          "world_coords_meters": {
+            "x": 0.069,
+            "y": -0.309,
+            "z": 2.846
+          }
+        },
+        {
+          "tip_id": 2,
+          "confidence": 0.015,
+          "pixel_coords": {
+            "u": 982.4,
+            "v": 424.3
+          },
+          "world_coords_meters": {
+            "x": 0.058,
+            "y": -0.308,
+            "z": 2.832
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_071006_front_frame000040_rgb.png",
+      "depth_file": "20250917_071006_front_frame000040_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.912,
+          "pixel_coords": {
+            "u": 972.4,
+            "v": 391.2
+          },
+          "world_coords_meters": {
+            "x": 0.03,
+            "y": -0.368,
+            "z": 2.634
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_071149_rear_frame000026_rgb.png",
+      "depth_file": "20250917_071149_rear_frame000026_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.906,
+          "pixel_coords": {
+            "u": 953.3,
+            "v": 386.3
+          },
+          "world_coords_meters": {
+            "x": -0.015,
+            "y": -0.334,
+            "z": 2.311
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_072018_front_frame000200_rgb.png",
+      "depth_file": "20250917_072018_front_frame000200_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.884,
+          "pixel_coords": {
+            "u": 973.3,
+            "v": 392.8
+          },
+          "world_coords_meters": {
+            "x": 0.028,
+            "y": -0.317,
+            "z": 2.288
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_072036_front_frame000216_rgb.png",
+      "depth_file": "20250917_072036_front_frame000216_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.89,
+          "pixel_coords": {
+            "u": 948.6,
+            "v": 381.5
+          },
+          "world_coords_meters": {
+            "x": -0.026,
+            "y": -0.351,
+            "z": 2.356
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_072222_rear_frame000026_rgb.png",
+      "depth_file": "20250917_072222_rear_frame000026_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.267,
+          "pixel_coords": {
+            "u": 962.9,
+            "v": 393.8
+          },
+          "world_coords_meters": {
+            "x": 0.004,
+            "y": -0.321,
+            "z": 2.329
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_072252_rear_frame000028_rgb.png",
+      "depth_file": "20250917_072252_rear_frame000028_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.828,
+          "pixel_coords": {
+            "u": 964.8,
+            "v": 392.8
+          },
+          "world_coords_meters": {
+            "x": 0.009,
+            "y": -0.333,
+            "z": 2.404
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_075647_front_frame000035_rgb.png",
+      "depth_file": "20250917_075647_front_frame000035_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.609,
+          "pixel_coords": {
+            "u": 986.9,
+            "v": 376.0
+          },
+          "world_coords_meters": {
+            "x": 0.047,
+            "y": -0.299,
+            "z": 1.948
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_075647_rear_frame000034_rgb.png",
+      "depth_file": "20250917_075647_rear_frame000034_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.804,
+          "pixel_coords": {
+            "u": 964.1,
+            "v": 399.3
+          },
+          "world_coords_meters": {
+            "x": 0.01,
+            "y": -0.341,
+            "z": 2.577
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_085631_rear_frame000014_rgb.png",
+      "depth_file": "20250917_085631_rear_frame000014_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.901,
+          "pixel_coords": {
+            "u": 965.7,
+            "v": 392.0
+          },
+          "world_coords_meters": {
+            "x": 0.011,
+            "y": -0.334,
+            "z": 2.395
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_085701_rear_frame000016_rgb.png",
+      "depth_file": "20250917_085701_rear_frame000016_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.839,
+          "pixel_coords": {
+            "u": 964.1,
+            "v": 382.8
+          },
+          "world_coords_meters": {
+            "x": 0.009,
+            "y": -0.357,
+            "z": 2.413
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250917_111833_rear_frame000030_rgb.png",
+      "depth_file": "20250917_111833_rear_frame000030_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.159,
+          "pixel_coords": {
+            "u": 962.6,
+            "v": 393.8
+          },
+          "world_coords_meters": {
+            "x": 0.004,
+            "y": -0.33,
+            "z": 2.398
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250918_071900_rear_frame000038_rgb.png",
+      "depth_file": "20250918_071900_rear_frame000038_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.027,
+          "pixel_coords": {
+            "u": 962.0,
+            "v": 398.5
+          },
+          "world_coords_meters": {
+            "x": 0.004,
+            "y": -0.317,
+            "z": 2.379
+          }
+        }
+      ]
+    },
+    {
+      "image": "20250918_074942_front_frame000180_rgb.png",
+      "depth_file": "20250918_074942_front_frame000180_depth.tiff",
+      "tips": [
+        {
+          "tip_id": 1,
+          "confidence": 0.922,
+          "pixel_coords": {
+            "u": 975.0,
+            "v": 390.4
+          },
+          "world_coords_meters": {
+            "x": 0.03,
+            "y": -0.327,
+            "z": 2.324
+          }
+        }
+      ]
+    }
+  ]
+}
